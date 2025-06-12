@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Julie Zimmi Blog</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="background-blur"></div>
+  <div class="content">
+    <h1>Julie Zimmi Blog</h1>
+    <div id="blog-list"></div>
+    <button onclick="addPost()">Add Post</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
